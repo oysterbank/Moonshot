@@ -19,6 +19,7 @@
 		84EEBC3F28F8D22800398F52 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EEBC3E28F8D22800398F52 /* Color-Theme.swift */; };
 		84EEBC4128F8D67F00398F52 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EEBC4028F8D67F00398F52 /* MissionView.swift */; };
 		84EEBC4328F8DEA500398F52 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EEBC4228F8DEA500398F52 /* AstronautView.swift */; };
+		84EEBC4528F8E3EA00398F52 /* CrewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EEBC4428F8E3EA00398F52 /* CrewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		84EEBC3E28F8D22800398F52 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		84EEBC4028F8D67F00398F52 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		84EEBC4228F8DEA500398F52 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		84EEBC4428F8E3EA00398F52 /* CrewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				84EEBC2428F8A32C00398F52 /* MoonshotApp.swift */,
 				84EEBC2628F8A32C00398F52 /* ContentView.swift */,
 				84EEBC4028F8D67F00398F52 /* MissionView.swift */,
+				84EEBC4428F8E3EA00398F52 /* CrewView.swift */,
 				84EEBC4228F8DEA500398F52 /* AstronautView.swift */,
 				84EEBC3E28F8D22800398F52 /* Color-Theme.swift */,
 				84EEBC3C28F8B41100398F52 /* Mission.swift */,
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84EEBC4128F8D67F00398F52 /* MissionView.swift in Sources */,
+				84EEBC4528F8E3EA00398F52 /* CrewView.swift in Sources */,
 				84EEBC3928F8B0B600398F52 /* Astronaut.swift in Sources */,
 				84EEBC4328F8DEA500398F52 /* AstronautView.swift in Sources */,
 				84EEBC3F28F8D22800398F52 /* Color-Theme.swift in Sources */,
